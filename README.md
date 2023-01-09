@@ -5,9 +5,9 @@ I would like to use this as a resource for anyone learning to use rails or
 if I ever have to teach Rails again this will be a repo I can leverage.
 
 ---
-1.9.23
+## 1.9.23
 
-In this Commit:
+### In this Commit:
 - The first commit
 - Generated brand new rails application
 
