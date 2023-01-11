@@ -4,6 +4,16 @@
 I would like to use this as a resource for anyone learning to use rails or
 if I ever have to teach Rails again this will be a repo I can leverage.
 
+I also want to hone in my methodology and process. How do I stay organized.
+How do I document my progress, dependencies, code, etc.
+
+---
+## 1.10.23 (8:22 PM)
+
+### In this Commit:
+- Generated Scaffold For Product
+- Ran Migration For Product
+
 ---
 ## 1.9.23
 
