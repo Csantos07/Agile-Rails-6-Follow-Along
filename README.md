@@ -9,6 +9,10 @@ How do I document my progress, dependencies, code, etc.
 
 # Iteration A2: Making Prettier Listings
 
+# 1.12.23 (10:54 AM)
+### In this Commit: 
+- Created simple validations for Product
+
 # 1.12.23 (10:30 AM)
 ### In this Commit: 
 - Added Seed Data
