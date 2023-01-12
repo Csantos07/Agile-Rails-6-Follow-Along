@@ -7,11 +7,20 @@ if I ever have to teach Rails again this will be a repo I can leverage.
 I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
-# Iteration A2: Making Prettier Listings
+# Iteration B2: Unit Tests
+
+# 1.12.23 (12:45 PM)
+### In this Commit:
+- Created simple unit tests for the Product Model and Controller
+- Fixtures
+
+# Iteration B1: Validations
 
 # 1.12.23 (10:54 AM)
 ### In this Commit: 
 - Created simple validations for Product
+
+# Iteration A2: Making Prettier Listings
 
 # 1.12.23 (10:30 AM)
 ### In this Commit: 
