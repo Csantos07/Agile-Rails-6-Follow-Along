@@ -7,8 +7,20 @@ if I ever have to teach Rails again this will be a repo I can leverage.
 I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
+# Iteration A2: Making Prettier Listings
+
+# 1.12.23 (10:30 AM)
+### In this Commit: 
+- Added Seed Data
+- We styled the Products page
+
+
 ---
+#  Iteration A1: Creating The Product Maintenance App
+
 ## 1.10.23 (8:56 PM)
+
+### In this Commit: 
 - Ran Migration
 - Updated the form for Product
 - Finished Iteration A1: Creating the Product Maintenance Application
