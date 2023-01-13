@@ -8,6 +8,17 @@ I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
 ---
+# Iteration D1: Finding A Cart & Iteration D2: Connecticting Products to Carts
+
+## 1.13.23 (3:02 PM)
+### In this Commit:
+- Scaffold the cart
+- Scaffold the line_item
+  - understand belongs_to and active record associations.
+- Modified ProductsControllerTest
+
+Next Steps: Create a branch for Iteration D3: Adding A button
+---
 # Iteration C5: Caching Of Partial Results
 
 ## 1.12.23 (11:31 PM)
