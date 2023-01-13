@@ -7,18 +7,21 @@ if I ever have to teach Rails again this will be a repo I can leverage.
 I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
+---
 # Iteration C3: Using A Helper To Format The Price
 
 # 1.12.23 (10:36 PM)
 ### In this Commit:
 - Use number_to_currency helper
 
+---
 # Iteration C2: Adding Page Layout
 
 # 1.12.23 (10:30 PM)
 ### In this Commit:
 - Added a common page layout
 
+---
 # Iteration C1: Creating the Catalog Listing
 
 # 1.12.23 (9:19 PM)
@@ -27,6 +30,7 @@ How do I document my progress, dependencies, code, etc.
 - Assign root
 - View for Pragmatic Catalog Store
 
+---
 # Iteration B2: Unit Tests
 
 # 1.12.23 (12:45 PM)
@@ -34,12 +38,14 @@ How do I document my progress, dependencies, code, etc.
 - Created simple unit tests for the Product Model and Controller
 - Fixtures
 
+---
 # Iteration B1: Validations
 
 # 1.12.23 (10:54 AM)
 ### In this Commit: 
 - Created simple validations for Product
 
+---
 # Iteration A2: Making Prettier Listings
 
 # 1.12.23 (10:30 AM)
