@@ -7,6 +7,14 @@ if I ever have to teach Rails again this will be a repo I can leverage.
 I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
+# Iteration C1: Creating the Catalog Listing
+
+# 1.12.23 (9:19 PM)
+### In this Commit:
+- Created store controller
+- Assign root
+- View for Pragmatic Catalog Store
+
 # Iteration B2: Unit Tests
 
 # 1.12.23 (12:45 PM)
