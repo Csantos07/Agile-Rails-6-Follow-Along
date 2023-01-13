@@ -8,6 +8,13 @@ I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
 ---
+# Iteration C5: Caching Of Partial Results
+
+## 1.12.23 (11:31 PM)
+### In this Commit:
+- Familiarize with caching (should look more into this in the future)
+
+---
 # Iteration C4: Function Testing Of Controllers
 
 ## 1.12.23 (10:36 PM)
