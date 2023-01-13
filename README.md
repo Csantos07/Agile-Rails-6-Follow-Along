@@ -7,6 +7,12 @@ if I ever have to teach Rails again this will be a repo I can leverage.
 I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
+# Iteration C2: Adding Page Layout
+
+# 1.12.23 (10:30 PM)
+### In this Commit:
+- Added a common page layout
+
 # Iteration C1: Creating the Catalog Listing
 
 # 1.12.23 (9:19 PM)
