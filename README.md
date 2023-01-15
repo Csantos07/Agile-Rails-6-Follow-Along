@@ -8,6 +8,17 @@ I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
 ---
+# Iteration D3: Adding a Button
+
+## 1.14.23 (7:30 PM)
+### In this Commit:
+- Created Cart object
+- Familiarize with session objects
+- Created a private method and placed it in a concern making it accessible to all of our controllers
+- Created relationships between carts and line items and line items and products
+- Added a button that causes a product to be posted to a cart, causing a new line item to be created
+
+---
 # Iteration D1: Finding A Cart & Iteration D2: Connecticting Products to Carts
 
 ## 1.13.23 (3:02 PM)
