@@ -8,6 +8,14 @@ I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
 ---
+# Iteration E1: Creating A Smarter Cart
+
+## 1.14.23 (7:30 PM)
+### In this Commit:
+- Created a migration to add quantity to line item
+- Created a migration to update already exisiting line_items
+
+---
 # Iteration D3: Adding a Button
 
 ## 1.14.23 (7:30 PM)
