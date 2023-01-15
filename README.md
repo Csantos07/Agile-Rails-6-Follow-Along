@@ -8,6 +8,20 @@ I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
 ---
+# Iteration F2: Creating An AJAX Based Cart
+
+## 1.15.23 (7:00 AM)
+### In this Commit:
+- Ajaxify the cart
+
+---
+# Iteration F1: Moving The Cart
+
+## 1.15.23 (6:00 AM)
+### In this Commit:
+- Moved the cart to prepare for ajax.
+
+---
 # Iteration E3: Finshing The Cart
 
 ## 1.15.23 (4:00 AM)
@@ -15,7 +29,6 @@ How do I document my progress, dependencies, code, etc.
 - We added the ability to destroy a cart
 - We changed the formatting of the cart
 - Created a couple methods to find the total of the line items & total of cart
-
 
 ---
 # Iteration E2: Handling Errors
