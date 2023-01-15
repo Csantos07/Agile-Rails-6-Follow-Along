@@ -8,9 +8,17 @@ I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
 ---
+# Iteration E2: Handling Errors
+
+## 1.15.23 (4:00 AM)
+### In this Commit:
+- Created a rescue hook for invalid carts
+- updated line_items_controller_test
+
+---
 # Iteration E1: Creating A Smarter Cart
 
-## 1.14.23 (7:30 PM)
+## 1.15.23 (3:30 AM)
 ### In this Commit:
 - Created a migration to add quantity to line item
 - Created a migration to update already exisiting line_items
