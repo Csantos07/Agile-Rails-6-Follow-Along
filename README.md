@@ -8,6 +8,16 @@ I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
 ---
+# Iteration E3: Finshing The Cart
+
+## 1.15.23 (4:00 AM)
+### In this Commit:
+- We added the ability to destroy a cart
+- We changed the formatting of the cart
+- Created a couple methods to find the total of the line items & total of cart
+
+
+---
 # Iteration E2: Handling Errors
 
 ## 1.15.23 (4:00 AM)
