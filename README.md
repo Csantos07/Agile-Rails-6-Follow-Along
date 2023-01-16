@@ -8,6 +8,13 @@ I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
 ---
+# Iteration F5: Broadcasting Updates With Action Cable
+
+## 1.16.23 (4:32 PM)
+### In this Commit:
+- I'm having issues identifying action cable working
+ 
+---
 # Iteration F4: Hiding An Empty Cart With A Custom Helper
 
 ## 1.16.23 (3:39 PM)
