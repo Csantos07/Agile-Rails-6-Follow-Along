@@ -8,6 +8,13 @@ I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
 ---
+# Iteration F3: Highlighting Changes
+
+## 1.16.23 (3:00 PM)
+### In this Commit:
+- Use Keyframes to highlight changes
+
+---
 # Iteration F2: Creating An AJAX Based Cart
 
 ## 1.15.23 (7:00 AM)
