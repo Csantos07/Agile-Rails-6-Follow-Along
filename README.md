@@ -8,6 +8,13 @@ I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
 ---
+# Iteration F4: Hiding An Empty Cart With A Custom Helper
+
+## 1.16.23 (3:39 PM)
+### In this Commit:
+- Using a helper to hide cart
+
+---
 # Iteration F3: Highlighting Changes
 
 ## 1.16.23 (3:00 PM)
