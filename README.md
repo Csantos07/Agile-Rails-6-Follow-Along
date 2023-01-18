@@ -12,6 +12,7 @@ How do I document my progress, dependencies, code, etc.
 ## 1.18.23 (12:38 PM)
 ### In this Commit:
 - We added the ability to dyanmically display form fields with React
+- Skipping Iteration H2 for now
 
 ---
 # Iteration G2: Atom Feeds
