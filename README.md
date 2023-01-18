@@ -7,6 +7,12 @@ if I ever have to teach Rails again this will be a repo I can leverage.
 I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
+# Iteration G2: Atom Feeds
+
+## 1.18.23 (11:22 PM)
+### In this Commit:
+- Working Feed Reader
+
 ---
 # Iteration G1: Capturing An Order
 
@@ -16,6 +22,7 @@ How do I document my progress, dependencies, code, etc.
 - Added a Order foreign key to line_item
 - Worked with enums and forms
 - Fixed the action cable from previous chapter
+
 ---
 # Iteration F5: Broadcasting Updates With Action Cable
 
