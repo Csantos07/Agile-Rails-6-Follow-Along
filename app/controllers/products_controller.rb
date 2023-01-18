@@ -28,9 +28,6 @@ class ProductsController < ApplicationController
         format.html { redirect_to product_url(@product), notice: "Product was successfully created." }
         format.json { render :show, status: :created, location: @product }
 
-        @products = Product.all.order(:title)
-        ActionCable.server.broadcast 'products',
-          html: render_to_string('store/index', layout: false)
       else
         puts @product.errors.full_messages
         format.html { render :new, status: :unprocessable_entity }
@@ -45,6 +42,9 @@ class ProductsController < ApplicationController
       if @product.update(product_params)
         format.html { redirect_to product_url(@product), notice: "Product was successfully updated." }
         format.json { render :show, status: :ok, location: @product }
+
+        @products = Product.all.order(:title)
+        ActionCable.server.broadcast 'products', { html: render_to_string('store/index', layout: false) }
       else
         format.html { render :edit, status: :unprocessable_entity }
         format.json { render json: @product.errors, status: :unprocessable_entity }

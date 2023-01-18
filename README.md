@@ -8,6 +8,15 @@ I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
 ---
+# Iteration G1: Capturing An Order
+
+## 1.17.23 (11:22 PM)
+### In this Commit:
+- Generated a scaffold for Order model
+- Added a Order foreign key to line_item
+- Worked with enums and forms
+- Fixed the action cable from previous chapter
+---
 # Iteration F5: Broadcasting Updates With Action Cable
 
 ## 1.16.23 (4:32 PM)
