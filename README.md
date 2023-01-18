@@ -7,9 +7,16 @@ if I ever have to teach Rails again this will be a repo I can leverage.
 I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
+# Iteration H1: Adding Fields Dynamically To A Form
+
+## 1.18.23 (12:38 PM)
+### In this Commit:
+- We added the ability to dyanmically display form fields with React
+
+---
 # Iteration G2: Atom Feeds
 
-## 1.18.23 (11:22 PM)
+## 1.18.23 (8:42 AM)
 ### In this Commit:
 - Working Feed Reader
 
