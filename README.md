@@ -7,6 +7,15 @@ if I ever have to teach Rails again this will be a repo I can leverage.
 I also want to hone in my methodology and process. How do I stay organized.
 How do I document my progress, dependencies, code, etc.
 
+# Iteration I1 - J2
+## 1.20.23
+### In this Commit:
+- I got lazy with the breaking up of each block. I may stay in this branch to finish.
+- I can always go back a redo from I1
+- Action Mailer Working
+- Iteration J is all about authentication
+
+---
 # Iteration H1: Adding Fields Dynamically To A Form
 
 ## 1.18.23 (12:38 PM)
